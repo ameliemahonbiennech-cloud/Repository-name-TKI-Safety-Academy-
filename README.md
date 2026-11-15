@@ -1,2 +1,2 @@
-# Repository-name-TKI-Safety-Academy-
+TKI-Safety-Academy-
 Interactive Laboratory Safety TrainingInteractive Laboratory Safety Training
